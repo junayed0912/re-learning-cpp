@@ -1,0 +1,1 @@
+{"name":"Local: two_sets","url":"/home/junayed/CPP/re-learning-cpp/CSES/Introductory/two_sets.cpp","tests":[{"id":1777447420916,"input":"7","output":"YES\n4\n1 2 4 7\n3\n3 5 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/junayed/CPP/re-learning-cpp/CSES/Introductory/two_sets.cpp","group":"local","local":true}

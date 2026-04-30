@@ -1,0 +1,1 @@
+{"name":"Local: Repetitions","url":"/home/junayed/CPP/re-learning-cpp/CSES/Introductory/Repetitions.cpp","tests":[{"id":1777275867525,"input":"ATTCGGGA","output":"3"},{"id":1777276036266,"input":"a","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/junayed/CPP/re-learning-cpp/CSES/Introductory/Repetitions.cpp","group":"local","local":true}
