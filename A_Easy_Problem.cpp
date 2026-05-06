@@ -3,11 +3,12 @@ using namespace std;
 int main(void){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    int t; cin >> t;
+    int t;
+    cin >> t;
     while(t--){
-        int x;
-        cin >> x;
-        cout << min(x, x + 1) << endl;
+        int n;
+        cin >> n;
+        cout << n -1 << endl;
     }
     return 0;
 }
